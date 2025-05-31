@@ -1,1 +1,1 @@
-# UAP
+Program kalkulator cetakan donat rumahan ini menghitung volume, luas permukaan, massa, dan biaya pengiriman cetakan donat lubang dan donat tanpa lubang.  Program ini menghitung massa berdasarkan luas permukaan, densitas bahan, dan ketebalan cetakan. Massanya kemudian dikonversi ke kilogram untuk mendapatkan hasil biaya pengiriman tarif per kg. # UAP
